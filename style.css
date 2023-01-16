@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  margin-right: 300px;
+  /* opacity: 0.7; */
+  left: 100px;
+  height: 100vh;
+  background-image: url(./752x395-bolunebilme-kurallari-4-6-7-9-11-ile-bolunebilme-kurallari-ve-ornek-soru-cozumleri-e1-1654092842796.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 20px;
+}
+
+span {
+  font-size: 3rem;
+}
+
+.btn {
+  padding: 10px;
+  border-radius: 20px;
+  margin: 30px 10px;
+}
